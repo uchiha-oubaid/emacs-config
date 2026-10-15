@@ -1,0 +1,127 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/oubaid/Downloads/" . "PineconeMC-Linux-Qt6-Portable-11.1.0/")
+ ("/home/oubaid/code/stoyon/" . "src/")
+ ("/home/oubaid/odin-lang/core/encoding/" . "json/")
+ ("/home/oubaid/odin-lang/core/" . "time/")
+ ("/home/oubaid/code/stowon/" . "src/")
+ ("/usr/local/" . "include/")
+ ("/usr/" . "local/")
+ ("/home/oubaid/code/raylib/" . "build/")
+ ("/home/" . "oubaid/")
+ ("/home/oubaid/odin-lang/vendor/" . "raylib/")
+ ("/home/oubaid/odin-lang/" . "vendor/")
+ ("/home/oubaid/" . "Downloads/")
+ ("/home/oubaid/code/" . "stoyon/")
+ ("/home/oubaid/code/me/" . "texte/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/oubaid/"
+ "/home/oubaid/code/stoyon/src/"
+ "/home/oubaid/Downloads/PineconeMC-Linux-Qt6-Portable-11.1.0/bin/"
+ "/home/oubaid/odin-lang/vendor/raylib/"
+ "/home/oubaid/code/stoyon/"
+ "/home/oubaid/code/stowon/src/"
+ "/home/oubaid/code/stowon/"
+ "/home/oubaid/code/test-game/"
+ "/home/oubaid/Downloads/"
+ "/usr/local/include/"
+ "/home/oubaid/code/me/texte/"
+ "/home/oubaid/code/me/parse/"
+ "/home/oubaid/.emacs.local/"
+ "/home/oubaid/code/me/json/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "main.odin"
+ "raylib.odin"
+ "elyprismlauncher"
+ "prismlauncher.desktop"
+ "parse.odin"
+ ".gitignore"
+ "build.sh"
+ "config.mini"
+ "README.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/oubaid/code/stoyon/" (27344 58696 72550 157000) "./" "README.md" "screenshot.png" "LICENSE.md" "../" "res/" ".git/" "src/" "config.mini")
+
+ ("/home/oubaid/" (27344 58501 532862 55000) "./" ".tmux.conf" "Desktop/" ".steam/" ".ICEauthority" ".wget-hsts" "Documents/" ".lesshst" ".steampid" ".xsession-errors" "windows-sdk/" ".ssh/" ".emacs.local/" ".emacs.d/" "Music/" "odin-lang/" ".bash_logout" ".profile" ".face.icon" ".rustup/" "records/" ".bashrc" ".emacs.rc/" ".mozilla/" ".face" ".sudo_as_admin_successful" ".openshot_qt/" ".thunderbird/" "games/" "Pictures/" ".Xauthority" ".xsession-errors.old" "code/" ".gitconfig" ".steampath" "Templates/" "../" ".gnupg/" ".config/" ".dmrc" ".cache/" ".emacs.custom.el" "raylib.odin" ".java/" ".emacs" ".pki/" ".emacs~" ".bash_history" "Downloads/" "Videos/" "Public/" ".xwin-cache/" ".local/" ".cargo/")
+
+ ("/home/oubaid/code/stoyon/src/" (27344 58287 164207 151000) "./" "main.odin" "../" "parse.odin")
+
+ ("/home/oubaid/Downloads/" (27343 58922 783416 368000) "./" "Godot_v4.7.2-stable_linux.x86_64" "xy_plus_3_mathematiques_section_3em_math_tome1.pdf" "tmux-client-21283.log" "PineconeMC-Linux-Qt6-Portable-11.1.0/" "tmux-server-21285.log" "../" "godot.desktop" "PPSSPP-v1.20.4-anylinux-x86_64.AppImage")
+
+ ("/home/oubaid/odin-lang/vendor/raylib/" (27333 391 0 0) "./" "linux-arm64/" "README.md" "rlgl/" "easings.odin" "macos/" "raygui.odin" "windows/" "wasm/" "../" "linux/" "raymath.odin" "raylib.odin" "LICENSE")
+
+ ("/home/oubaid/Downloads/PineconeMC-Linux-Qt6-Portable-11.1.0/bin/" (27329 26093 265883 65000) "./" "prismlauncher.desktop" "elyprismlauncher_updater" "elyprismlauncher" "gio-launch-desktop" "../" "prismicon.svg" "xdg-open")
+
+ ("/home/oubaid/Downloads/PineconeMC-Linux-Qt6-Portable-11.1.0/" (27329 9882 293592 966000) "./" "meta/" "manifest.txt" "ElyPrismLauncher" "cache/" "translations/" "accounts.json" "lib/" "instances/" "libraries/" "assets/" "iconthemes/" "prismlauncher_update.cfg" "sharun" "share/" "catpacks/" "logs/" "bin/" "portable.txt" "../" "icons/" "elyprismlauncher.cfg" "java/" "themes/" "etc/" "metacache" "shared/")
+
+ ("/home/oubaid/.config/alacritty/" (27329 22456 111147 137000) "./" "../")
+
+ ("/home/oubaid/.config/" (27329 6572 37571 91000) "./" "QtProject.conf" "godot/" "net.imput.helium/" "lazygit/" "nvim/" "ghostty/" "pavucontrol.ini" "xarchiver/" "Mousepad/" "discord/" "systemd/" "rofi/" "wireplumber/" "user-dirs.dirs" "inkscape/" "../" "ristretto/" "mimeapps.list" "vlc/" "obs-studio/" "user-dirs.locale" "xfce4/" "librewolf/" "gtk-3.0/" "dconf/" "Thunar/" "pulse/")
+
+ ("/home/oubaid/odin-lang/core/math/rand/" (27286 42056 0 0) "./" "exp.odin" "rand_xoshiro256.odin" "normal.odin" "../" "rand_pcg.odin" "rand.odin" "distributions.odin")
+
+ ("/home/oubaid/odin-lang/core/time/" (27326 37750 480657 264000) "./" "tsc_darwin.odin" "iso8601.odin" "tsc_linux.odin" "time_unix.odin" "timezone/" "rfc3339.odin" "datetime/" "time_wasi.odin" "perf.odin" "time_js.odin" "tsc_freebsd.odin" "../" "time_linux.odin" "time_other.odin" "time_windows.odin" "time.odin" "time_orca.odin" "src")
+
+ ("/home/oubaid/code/test-game/" (27320 9521 816641 398000) "./" "main.odin" "../")
+
+ ("/home/oubaid/code/" (27322 38962 746724 254000) "./" "raylib/" "Ahmed/" "musializer/" "stoyon/" "../" "test-game/")
+
+ ("/home/oubaid/code/stowon/src/" (27321 21499 575405 432000) "./" "main.odin" "../")
+
+ ("/home/oubaid/code/stowon/" (27321 14496 36487 840000) "./" "README.md" "src.bin" "../" "fonts/" ".git/" "src/" "config.mini")
+
+ ("/home/oubaid/odin-lang/core/encoding/json/" (27286 42056 0 0) "./" "unparse.odin" "match.odin" "validator.odin" "marshal.odin" "types.odin" "../" "parser.odin" "unmarshal.odin" "tokenizer.odin")
+
+ ("/home/oubaid/odin-lang/core/encoding/" (27286 42056 0 0) "./" "pem/" "base64/" "uuid/" "cbor/" "hex/" "endian/" "csv/" "json/" "ini/" "asn1/" "../" "varint/" "hxa/" "xml/" "base32/" "entity/")
+
+ ("/home/oubaid/code/stowon/fonts/" (27318 58656 95113 757000) "./" "JetBrainsMonoNLNerdFont-Regular.png" "../" "JetBrainsMonoNLNerdFont-Regular.ttf")
+
+ ("/home/oubaid/odin-lang/core/" (27286 42056 0 0) "./" "prof/" "simd/" "nbio/" "mem/" "strconv/" "flags/" "strings/" "os/" "thread/" "text/" "terminal/" "log/" "slice/" "io/" "debug/" "sys/" "testing/" "net/" "reflect/" "fmt/" "image/" "rexcode/" "dynlib/" "hash/" "odin/" "sort/" "crypto/" "encoding/" "c/" "../" "math/" "sync/" "compress/" "path/" "unicode/" "time/" "container/" "bufio/" "relative/" "bytes/")
+
+ ("/home/oubaid/code/Ahmed/" (27315 56582 596984 291000) "./" "oi-oi-oi/" "README.md" "../" ".git/")
+
+ ("/home/oubaid/odin-lang/" (27313 38230 635768 734000) "./" "vendor/" "base/" "core/" "odin" "../" "examples/" "shared/")
+
+ ("/usr/local/include/" (27313 29949 724818 224000) "./" "rlgl.h" "rcamera.h" "../" "raylib.h" "raymath.h")
+
+ ("/usr/local/" (27312 16250 239995 633000) "./" "libexec/" "man/" "lib/" "include/" "games/" "share/" "bin/" "../" "sbin/" "src/" "etc/")
+
+ ("/home/oubaid/code/raylib/" (27313 29255 509009 987000) "raylib.pc.in" "./" "build/" "SECURITY.md" "README.md" "projects/" "CONTRIBUTING.md" "CMakeOptions.txt" "build.zig.zon" "logo/" "CONVENTIONS.md" ".gitignore" "tools/" "CHANGELOG" "../" "cmake/" "HISTORY.md" "build.zig" ".git/" ".github/" "BINDINGS.md" "CMakeLists.txt" "FAQ.md" "ROADMAP.md" "src/" "LICENSE" "examples/")
+
+ ("/usr/include/" (27313 29733 18147 990000) "mips-linux-gnu/" "asoundlib.h" "uchar.h" "./" "netdb.h" "paths.h" "EGL/" "wctype.h" "i386-linux-gnu/" "mcheck.h" "nss.h" "resolv.h" "stdint.h" "x86_64-linux-gnu/" "nfs/" "printf.h" "utime.h" "gshadow.h" "netiucv/" "netrom/" "inttypes.h" "limits.h" "regexp.h" "wayland-client-protocol.h" "clif.h" "alloca.h" "execinfo.h" "x86_64-linux-gnux32/" "netatalk/" "sched.h" "arm-linux-gnueabi/" "arm-linux-gnueabihf/" "wayland-version.h" "sgtty.h" "endian.h" "wayland-server-core.h" "libgen.h" "assert.h" "tar.h" "fstab.h" "thread_db.h" "envz.h" "netpacket/" "KHR/" "err.h" "langinfo.h" "ar.h" "re_comp.h" "dlfcn.h" "wayland-server-protocol.h" "stab.h" "error.h" "ghostty/" "string.h" "wayland-client-core.h" "fmtmsg.h" "nl_types.h" "netipx/" "link.h" "c++/" "obstack.h" "xorg/" "gtk4-session-lock.h" "sudo_plugin.h" "sys/" "setjmp.h" "ulimit.h" "fcntl.h" "net/" "stdlib.h" "xen/" "iproute2/" "asm-generic/" "ucontext.h" "regex.h" "mipsel-linux-gnu/" "xcb/" "crypt.h" "GLES3/" "m68k-linux-gnu/" "argz.h" "features-time64.h" "netash/" "netinet/" "mqueue.h" "alsa/" "search.h" "ifaddrs.h" "video/" "poll.h" "emacs-module.h" "fts.h" "stdbit.h" "GLES/" "finclude/" "xkbcommon/" "gnu-versions.h" "syslog.h" "netrose/" "misc/" "termios.h" "mips64-linux-gnuabi64/" "riscv64-linux-gnu/" "time.h" "getopt.h" "utmpx.h" "malloc.h" "pty.h" "features.h" "wayland-util.h" "elf.h" "scsi/" "wayland-server.h" "pwd.h" "strings.h" "glvnd/" "hppa-linux-gnu/" "tgmath.h" "ctype.h" "fnmatch.h" "gtk4-layer-shell.h" "libintl.h" "lastlog.h" "math.h" "mipsisa64r6el-linux-gnuabi64/" "wayland-client.h" "regulator/" "rpcsvc/" "complex.h" "aarch64-linux-gnu/" "threads.h" "argp.h" "wayland-cursor.h" "../" "ttyent.h" "mips64el-linux-gnuabi64/" "pthread.h" "aio.h" "dirent.h" "mntent.h" "memory.h" "spawn.h" "aliases.h" "netax25/" "iconv.h" "alpha-linux-gnu/" "stdio_ext.h" "byteswap.h" "termio.h" "wchar.h" "loongarch64-linux-gnu/" "linux/" "powerpc64le-linux-gnu/" "stdc-predef.h" "glob.h" "semaphore.h" "X11/" "neteconet/" "utmp.h" "powerpc-linux-gnu/" "sh4-linux-gnu/" "arpa/" "GLES2/" "GL/" "gconv.h" "syscall.h" "fenv.h" "monetary.h" "signal.h" "rpc/" "errno.h" "protocols/" "ftw.h" "locale.h" "mtd/" "sysexits.h" "rdma/" "wordexp.h" "drm/" "wayland-egl.h" "sound/" "grp.h" "gnumake.h" "unistd.h" "wait.h" "shadow.h" "powerpc64-linux-gnu/" "stdio.h" "cpio.h" "sparc64-linux-gnu/" "wayland-egl-core.h" "s390x-linux-gnu/" "proc_service.h" "values.h")
+
+ ("/usr/" (27312 16250 231995 633000) "./" "libexec/" "lib/" "include/" "games/" "share/" "bin/" "lib64/" "local/" "../" "sbin/" "src/")
+
+ ("/home/" (27312 19607 167982 827000) "./" "../" "oubaid/")
+
+ ("/home/oubaid/.emacs.local/" (27312 13918 0 0) "./" "simpc-mode.el" "odin-mode.el" "../")
+
+ ("/home/oubaid/code/ded/" (27310 49672 856193 430000) "src/" ".github/" ".gitignore" "CONTRIBUTING.md" "ded" "build_msvc.bat" ".git/" "shaders/" "./" "fonts/" "README.md" "build.sh" "../" "LICENSE" "setup_dependencies.bat" "build_msys2_mingw64.sh")
+
+ ("/home/oubaid/code/ded/src/" (27310 49830 348456 835000) "main.c" "la.h" "free_glyph.h" "editor.c" "simple_renderer.h" "common.h" "lexer.c" "file_browser.c" "free_glyph.c" "arena.h" "minirent.h" "file_browser.h" "./" "../" "la.c" "editor.h" "lexer.h" "common.c" "simple_renderer.c" "sv.h")
+
+ ("/home/oubaid/code/me/texte/" (27309 14658 983638 901000) "#config.txt#" "config.ini" "./" "fonts/" "../" ".#config.ini" "main.odin" "#config.ini#")
+
+ ("/home/oubaid/odin-lang/vendor/" (27286 42056 0 0) "portmidi/" "miniaudio/" "sdl2/" "glfw/" "curl/" "directx/" "zlib/" ".gitkeep" "OpenGL/" "windows/" "raylib/" "libc-shim/" "box3d/" "sdl3/" "wasm/" "libc/" "ENet/" "darwin/" "./" "compress/" "kb_text_shape/" "nanovg/" "ggpo/" "README.md" "lua/" "../" "stb/" "wgpu/" "egl/" "fontstash/" "OpenEXRCore/" "vulkan/" "x11/" "microui/" "box2d/" "commonmark/" "cgltf/")
+
+ ("/home/oubaid/code/me/" (27308 17628 273051 697000) "texte/" "./" "../" "parse/")
+
+ ("/home/oubaid/code/me/parse/" (27304 23070 488448 73000) "file.json" "./" "../" "parse.odin")
+
+ ("/home/oubaid/code/me/json/" (27302 31034 199444 421000) "xml" ".tscn" "Dungeon_Tileset.png" "test_map.xml" "./" "../" "xml.c" "parse.odin")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

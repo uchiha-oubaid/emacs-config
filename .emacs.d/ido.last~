@@ -1,0 +1,37 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/oubaid/code/" . "test/")
+ ("/home/oubaid/code/me/" . "parse/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/oubaid/"
+ "/home/oubaid/code/me/parse/"
+ "/home/oubaid/code/me/json/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "parse.odin"
+ "xml.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/oubaid/code/me/parse/" (27302 60257 198630 329000) "file.json" "./" "../" "parse.odin")
+
+ ("/home/oubaid/code/me/" (27302 37747 651425 642000) "./" "../" "parse/")
+
+ ("/home/oubaid/" (27304 3306 466031 37000) "Desktop/" ".sane/" ".java/" ".zcompdump-odebian-5.9.zwc" ".steam/" ".zsh_history" ".ICEauthority" ".emacs" "odin-lang/" ".sudo_as_admin_successful" "Music/" ".viminfo" "Documents/" ".face" "Downloads/" ".oh-my-zsh/" ".gnupg/" ".shell.pre-oh-my-zsh" "Videos/" ".config/" ".xsession-errors.old" ".var/" ".emacs~" ".emacs.custom.el" "Public/" ".wine/" ".vim/" ".histfile" ".pki/" ".profile" ".local/" "#%2Amail%2A#jlz2sv#" ".emacs.rc/" ".Xauthority" ".bash_history" "./" ".zshrc" ".python_history" "../" "GNUstep/" ".vimrc" "PkgTTC-Iosevka-34.8.1.zip" "Templates/" ".dmrc" ".ssh/" ".xsession-errors" ".emacs.local/" "code/" ".steampid" ".zcompdump-odebian-5.9" ".face.icon" ".steampath" ".bash_logout" ".tmux" ".emacs.d/" ".mozilla/" ".bashrc" ".wget-hsts" ".cache/" ".zcompdump" "Pictures/" ".zshrc.pre-oh-my-zsh" ".emacs.custom.el~" ".gitconfig")
+
+ ("/home/oubaid/code/me/json/" (27302 31034 199444 421000) "xml" ".tscn" "Dungeon_Tileset.png" "test_map.xml" "./" "../" "xml.c" "parse.odin")
+
+ ("/home/oubaid/code/" (27302 27849 911511 377000) "PiMuse/" "musializer/" "jai/" "test" "raylib/" "aseprite/" "./" "../" "gf/" "tatr/" "me/" "test.c")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

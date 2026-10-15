@@ -1,0 +1,59 @@
+
+;; ----- smex-history -----
+(
+ compile
+ whitespace-mode
+ evil-mode
+ man
+ shell-command-with-editor-mode
+ shell-command
+ make-directory
+)
+
+;; ----- smex-data -----
+(
+ (compile . 462)
+ (customize-variable . 3)
+ (kill-compilation . 5)
+ (make-directory . 15)
+ (toggle-word-wrap . 6)
+ (evil-next-buffer . 9)
+ (make-empty-file . 2)
+ (rename-file . 2)
+ (align . 7)
+ (align-entire . 1)
+ (evil-redo . 6)
+ (help . 1)
+ (evil-move . 1)
+ (magit . 11)
+ (whitespace-mode . 8)
+ (global-whitespace-mode . 4)
+ (package-install . 2)
+ (list-packages . 3)
+ (company-mode . 8)
+ (evil-mode . 4)
+ (replace-string . 3)
+ (indent-region . 2)
+ (undo . 1)
+ (undo-redo . 1)
+ (next-buffer . 1)
+ (battery . 1)
+ (theme-choose-variant . 1)
+ (customize-themes . 1)
+ (align-regexp . 3)
+ (eudc-get-email . 1)
+ (describe-function . 2)
+ (man . 6)
+ (ebuffers . 1)
+ (list-buffers . 1)
+ (buffer-menu . 1)
+ (Buffer-menu-view . 1)
+ (message-mode . 2)
+ (odin-mode . 2)
+ (shell . 1)
+ (shell-command . 7)
+ (shortdoc . 1)
+ (toggle-truncate-lines . 2)
+ (shell-command-with-editor-mode . 1)
+ (rc/set-up-whitespace-handling . 2)
+)
