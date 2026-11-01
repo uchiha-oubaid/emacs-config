@@ -9,7 +9,10 @@
 	 default))
  '(inhibit-startup-screen t)
  '(line-number-mode t)
- '(package-selected-packages nil)
+ '(package-selected-packages
+   '(## company-box dash-functional evil-escape evil-multiedit
+		evil-surround exec-path-from-shell gruber-darker-theme
+		lsp-java magit markdown-mode move-text multiple-cursors smex))
  '(warning-minimum-level :error))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.

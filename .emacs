@@ -6,12 +6,12 @@
 (setq-default tab-width 4)
 (setq-default truncate-lines t)
 (defvaralias 'c-basic-offset 'tab-width)
-;(add-to-list 'default-frame-alist `(font . "JetBrainsMonoNL Nerd Font-18"))
+(setq-default compilation-scroll-output 1)
 (add-to-list 'default-frame-alist `(font . "Iosevka-18"))
 (tool-bar-mode 0)
 (menu-bar-mode 0)
 (scroll-bar-mode 0)
-(add-hook 'after-init-hook 'global-company-mode)
+;(add-hook 'after-init-hook 'global-company-mode)
 (add-to-list 'initial-frame-alist '(fullscreen . maximized))
 
 (setq display-line-numbers-type 'relative)
@@ -28,6 +28,15 @@
                (display-buffer-reuse-window display-buffer-at-bottom)
                (window-height . 0.33)
                (reusable-frames . visible)))
+
+(require 'ansi-color)
+
+(defun my/colorize-compilation-output ()
+  "Apply ANSI colors to newly added compilation output."
+  (let ((inhibit-read-only t))
+    (ansi-color-apply-on-region compilation-filter-start (point))))
+
+(add-hook 'compilation-filter-hook #'my/colorize-compilation-output)
 
 (global-set-key (kbd "M-h") 'windmove-left)
 (global-set-key (kbd "M-j") 'windmove-down)
@@ -66,6 +75,8 @@
 
 (with-eval-after-load 'evil-escape
   (add-to-list 'evil-escape-excluded-states 'visual))
+(with-eval-after-load 'evil-escape
+  (add-to-list 'evil-escape-excluded-major-modes 'compilation-mode 'magit))
 (evil-ex-define-cmd "cd" #'cd)
 
 (use-package markdown-mode

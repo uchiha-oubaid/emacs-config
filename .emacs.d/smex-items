@@ -2,37 +2,37 @@
 ;; ----- smex-history -----
 (
  compile
- whitespace-mode
- evil-mode
- man
- shell-command-with-editor-mode
+ align-regexp
+ magit
  shell-command
+ shell
+ magit-run
  make-directory
 )
 
 ;; ----- smex-data -----
 (
- (compile . 462)
- (customize-variable . 3)
+ (compile . 969)
+ (customize-variable . 4)
  (kill-compilation . 5)
- (make-directory . 15)
+ (make-directory . 20)
  (toggle-word-wrap . 6)
  (evil-next-buffer . 9)
  (make-empty-file . 2)
  (rename-file . 2)
- (align . 7)
+ (align . 10)
  (align-entire . 1)
- (evil-redo . 6)
+ (evil-redo . 8)
  (help . 1)
  (evil-move . 1)
- (magit . 11)
+ (magit . 29)
  (whitespace-mode . 8)
  (global-whitespace-mode . 4)
- (package-install . 2)
- (list-packages . 3)
- (company-mode . 8)
- (evil-mode . 4)
- (replace-string . 3)
+ (package-install . 5)
+ (list-packages . 5)
+ (company-mode . 17)
+ (evil-mode . 8)
+ (replace-string . 7)
  (indent-region . 2)
  (undo . 1)
  (undo-redo . 1)
@@ -40,20 +40,29 @@
  (battery . 1)
  (theme-choose-variant . 1)
  (customize-themes . 1)
- (align-regexp . 3)
+ (align-regexp . 11)
  (eudc-get-email . 1)
  (describe-function . 2)
- (man . 6)
+ (man . 16)
  (ebuffers . 1)
  (list-buffers . 1)
  (buffer-menu . 1)
  (Buffer-menu-view . 1)
  (message-mode . 2)
  (odin-mode . 2)
- (shell . 1)
- (shell-command . 7)
+ (shell . 2)
+ (shell-command . 9)
  (shortdoc . 1)
  (toggle-truncate-lines . 2)
  (shell-command-with-editor-mode . 1)
  (rc/set-up-whitespace-handling . 2)
+ (search-forward-regexp . 3)
+ (tetris . 1)
+ (evil-surround-mode . 2)
+ (lua-ts-mode . 2)
+ (lsp . 1)
+ (lsp-mode . 1)
+ (comment-box . 2)
+ (comment-region . 2)
+ (magit-run . 1)
 )

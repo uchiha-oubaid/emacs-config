@@ -10,13 +10,18 @@
 		evil-next-line
 		evil-normal-state
 		evil-previous-line
+		evil-substitute
 		evil-undo
+		evil-visual-char
 		keyboard-escape-quit
 		))
 
 (setq mc/cmds-to-run-once
       '(
+		evil-copy-from-above
 		evil-delete-backward-char-and-join
 		evil-force-normal-state
+		evil-forward-char
 		evil-inner-sentence
+		evil-insert-line
 		))
